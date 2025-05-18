@@ -1,1 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.structureoftheheart",
+      "sha256_cert_fingerprints": [
+        "57D89DB9DD9DE838DFE9C7FBCF83C8E94846E54DB1C69F3828D38F6CF7887145"
+      ]
+    }
+  }
+]
 
